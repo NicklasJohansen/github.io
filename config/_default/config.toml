@@ -20,6 +20,9 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+# Selv tilføjet
+publishDir = "docs"
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
