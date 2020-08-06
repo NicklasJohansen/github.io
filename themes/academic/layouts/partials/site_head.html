@@ -137,8 +137,6 @@
   {{ partial "marketing/google_analytics" . }}
   {{ partial "marketing/google_tag_manager" . }}
 
-  {{ template "_internal/google_analytics.html" . }}
-
   {{/* Netlify Identity integration. */}}
   {{ if .IsHome | and (site.Params.cms.netlify_cms | default true) }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
