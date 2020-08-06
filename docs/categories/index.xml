@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Nicklas Johansen</title>
+    <link>/NicklasJohansen.github.io/categories/</link>
+      <atom:link href="/NicklasJohansen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/NicklasJohansen.github.io/img/icon.png</url>
+      <title>Categories</title>
+      <link>/NicklasJohansen.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
