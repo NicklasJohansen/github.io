@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD fellow in Social Data Science at University of Copenhagen. I am a lecturer at the summer school teaching the course [Introduction to Social Data Science 2020](https://abjer.github.io/isds2020/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on social behaviour in democratic states during the COVID-19 epidemic, using methods from economics and data science. I have been studying mobility in relation to govermental trust and tried to estimate the amount and spread of misinformatiom. I am part of[The HOPE Project](https://hope-project.dk/) funded by [Carlsberfondet](https://www.carlsbergfondet.dk/da/Nyheder/Nyt-fra-fondet/Nyheder/25-millioner-kroner-til-forskning-i-social-adfaerd-under-Covid19).
